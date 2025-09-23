@@ -76,3 +76,6 @@ DerivedDataCache/*
 # Elude Source folder Cache files for the editor to use
 Source/*
 
+/MyFlyingShump/Intermediate
+/MyFlyingShump/DerivedDataCache
+/MyFlyingShump/Saved
